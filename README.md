@@ -5,7 +5,7 @@ cover interesting research in Software Engineering.
 <!-- Hope that it can be a place for them to find the rabbit and take down the hole. -->
 
 **Enhancing Symbolic Execution with Veritesting**  
-By Thanassis Avgerinos, Alexandre Rebert, Sang Kil Cha, David Brumley 
+By Thanassis Avgerinos, Alexandre Rebert, Sang Kil Cha, David Brumley  
 Communications of the ACM, June 2016, 59(6), pp.93-100  
 https://cacm.acm.org/magazines/2016/6/202649-enhancing-symbolic-execution-with-veritesting/fulltext  
 <kbd>automated testing</kbd>, <kbd>symbolic analysis</kbd>, <kbd>fuzzing</kbd>, <kbd>security bug</kbd>  
