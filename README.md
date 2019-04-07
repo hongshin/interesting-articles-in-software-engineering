@@ -4,6 +4,11 @@ This page is for undergrad students to find a list of papers and articles that
 cover interesting research in Software Engineering. 
 <!-- Hope that it can be a place for them to find the rabbit and take down the hole. -->
 
+**OSS-Fuzz - Google's Continuous Fuzzing Service for Open Source Software**
+By Kostaya Serebryany, Google  
+USENIX Security Symposium 2017  
+https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/serebryany
+
 **Enhancing Symbolic Execution with Veritesting**  
 By Thanassis Avgerinos, Alexandre Rebert, Sang Kil Cha, David Brumley  
 Communications of the ACM, June 2016, 59(6), pp.93-100  
