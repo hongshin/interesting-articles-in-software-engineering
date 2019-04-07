@@ -31,3 +31,9 @@ By Caitlin Sadowski and Jaeheon Yi, Google, Inc.
 PLATEAU 2014  
 https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43217.pdf  
 <kbd>Concurrency Bug</kbd> <kbd>Dynamic Analysis</kbd> <kbd>Software Engineering in Practice</kbd>
+
+**GUI Testing Using Computer Vision**  
+By Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller  
+CHI 2010
+http://up.csail.mit.edu/projects/sikuli/sikuli-chi2010.pdf
+<kbd>GUI Testing</kbd>, <kbd> Test Script </kbd>
