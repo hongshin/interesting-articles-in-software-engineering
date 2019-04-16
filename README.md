@@ -4,7 +4,13 @@ This page is for undergrad students to find a list of papers and articles that
 cover interesting research in Software Engineering. 
 <!-- Hope that it can be a place for them to find the rabbit and take down the hole. -->
 
-**OSS-Fuzz - Google's Continuous Fuzzing Service for Open Source Software**
+**Automated Program Repair**  
+Claire Le Goues, Michael Pradel, Abhik Roychoudhury  
+Communications of the ACM (CACM), to appear  
+https://www.comp.nus.edu.sg/~abhik/pdf/cacm19.pdf
+<kbh>automated program repair</kbh> <kbh>debugging</kbh>  
+
+**OSS-Fuzz - Google's Continuous Fuzzing Service for Open Source Software**  
 By Kostaya Serebryany, Google  
 USENIX Security Symposium 2017  
 https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/serebryany
