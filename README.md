@@ -48,3 +48,9 @@ By Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 CHI 2010
 http://up.csail.mit.edu/projects/sikuli/sikuli-chi2010.pdf  
 <kbd>GUI Testing</kbd> <kbd> Test Script </kbd>
+
+**50 CVEs in 50 Days: Fuzzing Adobe Reader**  
+By Yoav Alon and Netanel Ben-Simon  
+December 12, 2018  
+https://research.checkpoint.com/50-adobe-cves-in-50-days  
+<kbd>fuzz testing</kbd>
