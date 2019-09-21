@@ -54,3 +54,9 @@ By Yoav Alon and Netanel Ben-Simon
 December 12, 2018  
 https://research.checkpoint.com/50-adobe-cves-in-50-days  
 <kbd>fuzz testing</kbd>
+
+**Fuzzing Code with AFL**
+By Peter Gutmann
+The USENIX Magazine (;login:) , Summer 2016
+https://www.usenix.org/publications/login/summer2016/gutmann
+<kbd>fuzz testing</kbd>
