@@ -60,3 +60,9 @@ By Peter Gutmann
 The USENIX Magazine (;login:) , Summer 2016  
 https://www.usenix.org/publications/login/summer2016/gutmann  
 <kbd>fuzz testing</kbd>
+
+**PerfFuzz: Automatically Generating Pathological Inputs**  
+By Caroline Lemieux, Rohan Padhye, Koushik Sen and Dawn Song  
+ISSTA 2018  
+https://people.eecs.berkeley.edu/~rohanpadhye/files/PerfFuzz-issta18.pdf
+<kbd>fuzz testing</kbd>  
