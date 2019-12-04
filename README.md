@@ -21,6 +21,12 @@ Communications of the ACM (CACM), June 2016, 59(6), Pages 93-100
 https://cacm.acm.org/magazines/2016/6/202649-enhancing-symbolic-execution-with-veritesting/fulltext  
 <kbd>automated testing</kbd> <kbd>symbolic analysis</kbd> <kbd>fuzzing</kbd> <kbd>security bug</kbd>  
 
+**Proactive detection of collaboration conflicts**  
+By Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin  
+ESEC/FSE 2011  
+https://dl.acm.org/citation.cfm?id=2025139  
+<kbd>version control</kbd> 
+
 **So Many Bugs, So Little Time**  
 By Erica Naone  
 MIT Technology Review, July 27, 2010  
