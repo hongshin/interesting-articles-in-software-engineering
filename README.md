@@ -72,3 +72,18 @@ By Caroline Lemieux, Rohan Padhye, Koushik Sen and Dawn Song
 ISSTA 2018  
 https://people.eecs.berkeley.edu/~rohanpadhye/files/PerfFuzz-issta18.pdf  
 <kbd>fuzz testing</kbd>  
+
+ *ACM Tech Talks*   
+ https://learning.acm.org/techtalks-archive
+  * 24 January 2020 : Seven Unbreakable Rules of Software Leadership with Steve McConnell  
+  * 25 April 2018 : History of Software Engineering with Grady Booch  
+  * 7 September 2017 : Open Collaboration, the Eclipse Way with Mike Milinkovich  
+  * 2 August 2016 : Evolving Critical Systems with Mike Hinchey  
+  * 9 October 2015 : What Makes a Great Software Engineer? with Paul Li  
+  * 30 July 2015 : What Time Is It? A Guide to Time for Software Developers with George-Neville Neil  
+  * 27 March 2015 : Agile Methods: The Good, the Hype and the Ugly Part II with Bertrand Meyer  
+  * 18 February 2015 : Agile Methods The Good, the Hype and the Ugly with Bertrand Meyer  
+  * 28 January 2015 : Stranger than Fiction Case Studies in Software Engineering Judgment with Steve McConnell  
+  * 1 May 2014 : Lessons from the ACM Risks Forum with Peter Neumann  
+  * 8 May 2013 : Engineering Software as a Service with David Patterson  
+  * 12 April 2012 : Security: Computing in an Adversarial Environment with Carrie Gates  
